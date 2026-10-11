@@ -1,8 +1,3 @@
-=====================================================================
-ASSIGNMENT-5: SOFTWARE TESTING AND QUALITY ASSURANCE
-MCA 2nd YEAR - COER University
-=====================================================================
-
 
 ---------------------------------------------------------------------
 Q1. Define Software Quality Assurance (SQA). Explain its objectives,
@@ -793,12 +788,3 @@ Achieving continuous improvement:
   cycle (Plan-Do-Check-Act).
 - Use lessons learned and process feedback to refine standards.
 
-Conclusion:
-CMM helps organizations evolve from ad hoc development to optimized,
-data-driven processes, resulting in higher quality software, fewer
-defects, and sustained continuous improvement.
-
-
-=====================================================================
-END OF ASSIGNMENT-5
-=====================================================================
